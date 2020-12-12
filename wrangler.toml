@@ -1,0 +1,7 @@
+name = "weather2-worker"
+type = "webpack"
+account_id = "0bdde875dac8f968d3d8449028f7dd32"
+workers_dev = true
+route = "https://welcome.helloworldpeople.workers.dev/weather/austin"
+zone_id = ""
+webpack_config = "webpack.config.js"
